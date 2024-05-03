@@ -10,6 +10,11 @@ The python module `liteBox` supports some transformations between Lite and Nativ
 
 Currently, the only existing functionality is to support conversion of a `.h5` format "difcal" file from Lite to Native.
 
+# Instructions
+
+1. clone the repo
+2. inspect, edit and run the included python script testExample.py
+
 # Contact
 
 m.guthrie@ornl.gov
